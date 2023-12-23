@@ -1,0 +1,5 @@
+This is version 1 of my project
+i want this to go into commit 2
+This file will be in modified stage
+This is changed now
+This change was done in Master Branch
